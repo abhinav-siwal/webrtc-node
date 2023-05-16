@@ -3,7 +3,7 @@
 	"description": "A simple SkyRTC demo",
 	"main": "server.js",
 	"scripts": {
-		"start": "DEBUG=express:* node server.js"
+		"start": "node server.js"
 	},
 	"dependencies": {
 		"ws": ">= 7.4.6",
